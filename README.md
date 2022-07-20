@@ -1,7 +1,5 @@
 
-# Journal App
-
-Project Name:  `Tic Tac Toe`  
+App Name:  `Tic Tac Toe`  
 Name:  `Chirag Kasat`
 Email:  `chiragkasat0@gmail.com`
 
