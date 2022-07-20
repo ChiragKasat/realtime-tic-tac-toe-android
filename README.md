@@ -3,8 +3,7 @@
 
 Project Name:  `Tic Tac Toe`  
 Name:  `Chirag Kasat`
-ID:  `2019A7PS0028G`  
-Email:  `f20190028@goa.bits-pilani.ac.in`
+Email:  `chiragkasat0@gmail.com`
 
 ## Description
 This a online multiplayer rendition of the popular game Tic-Tac-Toe. The game has two modes to play in; 1. Single player mode where you play against the computer, and 2. Multiplayer mode where you can play against a random player online. It maintains a record of your wins and losses and registers you using your email ID.
@@ -28,11 +27,3 @@ Maintained a activePlayer variable and gameState array which shows whose turn it
 If user uses the FAB to create a 2-player game, it generates a unique ID of game and enlists itself in the available games section on Dasboard on other devices. If someone clicks on the view from dashboard to enter the game, the game is removed from active record and a new record is made in firebase database for the game state, which is then shared across the 2 users. This functionality is not working properly in the code.
 ### Sharing Journal
 User can press the share button which launches an implicit plain text intent so all the apps handling text data pops up for user to choose from.
-### Info Button
-Added an info fragment, conncted it in nav graph to the List fragment and used safe args to navigate in code.
-
-## Testing
-Could not test the app as I couldn't even get the multiplayer mode working properly.
-
-## Time to complete and difficulty
-It took me around 15 hours to complete the assignment including writing the README. The difficulty of assignment on a scale of 1 to 10 according to me would be 8.
